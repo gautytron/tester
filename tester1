@@ -1,0 +1,3 @@
+While turn on
+(game:HttpGetAsync("https://raw.githubusercontent.com/bruvzz/oasishub/main/script")
+end
